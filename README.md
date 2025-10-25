@@ -1,6 +1,6 @@
-# TextUtils
+# Pratice website
 
-Small React app to manipulate text (uppercase, lowercase, remove spaces, copy).
+Small React website
 
 ## Run
 1. npm install
