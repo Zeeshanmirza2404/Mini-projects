@@ -1,3 +1,18 @@
+# TextUtils
+
+Small React app to manipulate text (uppercase, lowercase, remove spaces, copy).
+
+## Run
+1. npm install
+2. npm start
+
+## Build
+npm run build
+
+## Notes
+- Project bootstrapped with Create React App.
+- Update this README with project-specific details.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
